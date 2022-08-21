@@ -9,6 +9,7 @@ const About = () => {
                 Hello, my name is Chris and I'm a community taught developer with a passion for learning, creating and problem solving.
                 I'm particularly interested in open-source, decentraliztion, blockchain, smart contracts and the future of web3.
             </p>
+            
         </section>
     );
 }
