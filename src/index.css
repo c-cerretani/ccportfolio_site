@@ -57,12 +57,12 @@ code {
 }
 
 .header img {
-  max-width: 300px;
+  max-width: 150px;
   height: auto;
 
-  margin: 20px auto;
+  margin: 5px auto;
 
-  border-radius: 50%;
+  border-radius: 25%;
 }
 
 .header__content {
